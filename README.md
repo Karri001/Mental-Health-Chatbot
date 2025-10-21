@@ -7,13 +7,16 @@ The Mental Health Chatbot is an interactive web-based platform designed to provi
 This project is hosted on GitHub: [Mental Health Chatbot Repository](https://github.com/Karri001/Mental-Health-Chatbot)
 
 ## Features
-- **Custom Dataset**: Trained on a specialized dataset tailored for Indian traffic signs to ensure accurate detection in diverse environments.
-- **YOLOv5 Model**: Utilizes the power of YOLOv5 for efficient and accurate object detection.
-- **Versatile Input Options**:
-  - Static images
-  - Video files
-  - Real-time classification via webcam or external camera feeds
-- **Gradio Interface**: Provides an intuitive, web-based interface for easy interaction with the model.
+- **Conversational AI (Ollama Integration)**: The chatbot uses Ollama’s local large language model as its “brain” to understand and respond naturally to user inputs.
+- **Chat History**: Each user’s previous conversations are securely stored and retrievable, allowing continuity and personalization in future sessions.
+- **User Authentication**:
+  - Signup: Create a new account with secure credentials.
+  - Login: Access personalized chat experiences.
+  - Forgot Password: Reset password securely using email verification or token-based recovery.
+- **Responsive UI**: Built with React, the interface is intuitive, user-friendly, and optimized for both desktop and mobile use.
+- **Backend & Database**:
+  - Python (Flask/FastAPI): Handles communication with Ollama, authentication, and chat data management.
+  - MongoDB: Stores user data, chat histories, and authentication details.
 
 ## How It Works
 The system detects and classifies traffic signs in input media by leveraging the YOLOv5 architecture. The workflow includes:
