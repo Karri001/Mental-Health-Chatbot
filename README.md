@@ -54,17 +54,24 @@ Follow these steps to set up the project:
    ```bash
    pip install -r requirements.txt
    ```
+   
 3. Download Ollama:
    - Ollama can be downloaded from this site (https://ollama.com/download)
-4. Open Three Different Terminals and Open the Three folders Shown Below in Those Terminal:
+4. Open Three Different Terminals and Open the Three folders Shown Below in Those Terminals to Run the Application :
+   - To Start Chatbot of the Application
    ```bash
    cd Cbot
+   python app.py
    ```
+   - To Start Frontend of the Application
    ```bash
    cd frontend
+   npm start
    ```
+   - To Start Backend of the Application
    ```bash
    cd backend
+   npm start
    ```
 
 ### Run the Application
