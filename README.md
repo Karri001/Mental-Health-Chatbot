@@ -20,11 +20,11 @@ This project is hosted on GitHub: [Mental Health Chatbot Repository](https://git
 
 ## How It Works
 1. **User Authentication**: 
-  - Users sign up or log in using their email and password.
-  - The system verifies credentials (stored securely in MongoDB) and creates a session using tokens.
+   - Users sign up or log in using their email and password.
+   - The system verifies credentials (stored securely in MongoDB) and creates a session using tokens.
 2. **Chat Interface**: 
-  - Once logged in, users access the chat screen built with React.
-  - They can send messages to the chatbot through a simple, responsive UI.
+   - Once logged in, users access the chat screen built with React.
+   - They can send messages to the chatbot through a simple, responsive UI.
 3. **Backend Processing**: 
    - Each message is sent from the frontend to the Python backend (Flask/FastAPI).
    - The backend forwards the user’s input to Ollama, which serves as the AI “brain.”
