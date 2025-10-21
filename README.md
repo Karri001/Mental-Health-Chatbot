@@ -102,7 +102,7 @@ Follow these steps to set up the project:
 
 
 ### Video Demonstration
-![Video Demonstration](https://github.com/user-attachments/assets/7356f82d-3bb9-4ece-a95c-cb65af8f6e07)
+https://github.com/user-attachments/assets/7356f82d-3bb9-4ece-a95c-cb65af8f6e07
 
 
 
