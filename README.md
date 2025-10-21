@@ -57,7 +57,7 @@ Follow these steps to set up the project:
    
 3. Download Ollama:
    - Ollama can be downloaded from this site (https://ollama.com/download)
-4. Open Three Different Terminals and Open the Three folders Shown Below in Those Terminals to Run the Application :
+4. Open Three Different Terminals with the Project Folder location and Open the Three folders Shown Below in Those Terminals to Run the Application :
    - To Start Chatbot of the Application
     
       ```bash
@@ -76,13 +76,7 @@ Follow these steps to set up the project:
       cd backend
       npm start
       ```
-
-### Run the Application
-Start the Gradio interface:
-```bash
-python app.py
-```
-The Gradio interface will launch, and you can access it via the displayed URL.
+5. The Application will Automatically launch itself after the Frontend has been launched and then the User can start Interacting with the ChatBot.
 
 ## Usage
 ### Using the Gradio Interface
