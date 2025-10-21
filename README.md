@@ -47,15 +47,15 @@ Follow these steps to set up the project:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Karri001/Traffic-sign-classification.git
-   cd Traffic-sign-classification
+   git clone https://github.com/Karri001/Mental-Health-Chatbot.git
+   cd Mental-Health-Chatbot
    ```
 2. Install required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Download the trained model weights:
-   - Place the YOLOv5 model weights (`best.pt`) in the `models/` directory.
+3. Download Ollama:
+   Ollama can be downloaded from this site (https://ollama.com/download)
 
 ### Run the Application
 Start the Gradio interface:
