@@ -80,8 +80,8 @@ Follow these steps to set up the project:
 
 
 ## Screenshots
-### Gradio Interface
-![Gradio Interface](https://github.com/Karri001/Traffic-sign-classification/blob/main/Screenshots/Screenshot%20(279).png)
+### Home Interface (Befor Login)
+![Home Interface (Befor Login)](https://github.com/user-attachments/assets/2377fe66-af50-4ecd-8315-b22eac9aec46)
 
 
 ### Detection Result
