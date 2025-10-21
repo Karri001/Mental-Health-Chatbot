@@ -19,13 +19,23 @@ This project is hosted on GitHub: [Mental Health Chatbot Repository](https://git
   - MongoDB: Stores user data, chat histories, and authentication details.
 
 ## How It Works
-The system detects and classifies traffic signs in input media by leveraging the YOLOv5 architecture. The workflow includes:
-1. **Data Preprocessing**: The custom dataset is preprocessed to ensure compatibility with YOLOv5 training requirements.
-2. **Model Training**: The YOLOv5 model is fine-tuned using the custom dataset to optimize for Indian traffic signs.
-3. **Inference**: Supports inference on:
-   - Single images
-   - Video streams (offline and real-time)
-4. **Visualization**: Highlights detected traffic signs with bounding boxes and class labels.
+1. **User Authentication**: 
+  - Users sign up or log in using their email and password.
+  - The system verifies credentials (stored securely in MongoDB) and creates a session using tokens.
+2. **Chat Interface**: 
+  - Once logged in, users access the chat screen built with React.
+  - They can send messages to the chatbot through a simple, responsive UI.
+3. **Backend Processing**: 
+   - Each message is sent from the frontend to the Python backend (Flask/FastAPI).
+   - The backend forwards the user’s input to Ollama, which serves as the AI “brain.”
+4. **Ollama Response Generation**: 
+   - Ollama processes the input using its local large language model.
+   - It generates a natural, empathetic reply suitable for mental health support conversations.
+5. **Chat History Management**: 
+   - The backend stores both user messages and bot replies in MongoDB.
+   - When users return, the chatbot loads their previous chat history for context and continuity.
+6. **Optional Password Recovery**: 
+   - If a user forgets their password, a secure token or email-based reset process is triggered.
 
 ## Setup and Installation
 Follow these steps to set up the project:
