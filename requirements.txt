@@ -1,0 +1,36 @@
+# Web framework
+Flask==3.1.2
+# OR if you prefer FastAPI:
+# fastapi==0.95.1
+# uvicorn for running FastAPI
+# uvicorn[standard]==0.23.1
+
+# MongoDB integration
+pymongo==4.5.1
+Flask-PyMongo==2.3.0
+
+# Authentication & security
+python-jose==4.15.0        # for JWT tokens
+bcrypt==4.0.1              # secure password hashing
+
+# CORS (for React frontend <-> backend)
+flask-cors==4.0.0
+
+# Environment variables
+python-dotenv==1.0.0
+
+# HTTP requests (if calling external API / Ollama endpoint)
+requests==2.31.0
+
+# Logging / utilities
+loguru==0.7.0              # optional but useful
+
+# (Optional) if you plan async handling or WebSockets
+# websockets==11.0.3
+# asyncio-jsonrpc==0.3.2
+
+# (Optional) typing / data validation
+pydantic==2.6.2            # especially helpful with FastAPI
+
+# (Optional) for chat history management or prompt templates
+# Jinja2==3.1.2             # if templating prompts
