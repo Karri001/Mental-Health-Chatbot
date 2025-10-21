@@ -4,7 +4,7 @@
 The Mental Health Chatbot is an interactive web-based platform designed to provide users with a safe and supportive environment to discuss their thoughts and emotions. Powered by Ollama as the core conversational engine, the chatbot engages users in empathetic, human-like conversations to promote mental wellness and emotional support.
 
 ## Repository
-This project is hosted on GitHub: [Traffic Sign Classification Repository](https://github.com/Karri001/Traffic-sign-classification)
+This project is hosted on GitHub: [Mental Health Chatbot Repository](https://github.com/Karri001/Mental-Health-Chatbot)
 
 ## Features
 - **Custom Dataset**: Trained on a specialized dataset tailored for Indian traffic signs to ensure accurate detection in diverse environments.
