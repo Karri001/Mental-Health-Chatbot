@@ -55,7 +55,17 @@ Follow these steps to set up the project:
    pip install -r requirements.txt
    ```
 3. Download Ollama:
-   Ollama can be downloaded from this site (https://ollama.com/download)
+   - Ollama can be downloaded from this site (https://ollama.com/download)
+4. Open Three Different Terminals and Open the Three folders Shown Below in Those Terminal:
+   ```bash
+   cd Cbot
+   ```
+   ```bash
+   cd frontend
+   ```
+   ```bash
+   cd backend
+   ```
 
 ### Run the Application
 Start the Gradio interface:
