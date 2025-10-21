@@ -78,17 +78,6 @@ Follow these steps to set up the project:
       ```
 5. The Application will Automatically launch itself after the Frontend has been launched and then the User can start Interacting with the ChatBot.
 
-## Usage
-### Using the Gradio Interface
-1. **Upload an Image or Video**: Drag and drop a file into the provided input box.
-2. **Real-Time Classification**: Select the webcam option to perform live traffic sign detection.
-3. **View Results**: Detected traffic signs will be displayed with bounding boxes and class labels.
-
-### Command-Line Interface (Optional)
-For advanced users, inference can also be performed via the command line:
-```bash
-python detect.py --source <path_to_input> --weights models/best.pt
-```
 
 ## Screenshots
 ### Gradio Interface
