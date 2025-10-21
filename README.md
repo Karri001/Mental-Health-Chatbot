@@ -106,21 +106,12 @@ https://github.com/user-attachments/assets/7356f82d-3bb9-4ece-a95c-cb65af8f6e07
 
 
 
-## Custom Dataset
-The model is trained on a custom dataset that includes diverse traffic signs observed in Indian road conditions. The dataset contains:
-- **Traffic Sign Types**: Speed limits, warning signs, mandatory signs, and more.
-- **Environmental Variations**: Urban, rural, day, and night scenarios.
-
-## Real-Time Performance
-This system supports real-time traffic sign detection with minimal latency, making it suitable for applications such as:
-- Autonomous vehicles
-- Traffic monitoring systems
-- Driver assistance tools
-
 ## Future Enhancements
-- Adding more traffic sign classes for enhanced coverage.
-- Improving performance for extreme weather and lighting conditions.
-- Extending support for other road conditions beyond Indian scenarios.
+- Allow users to chat in different languages by integrating multilingual models or translation APIs.
+- Build a cross-platform mobile app using React Native or Flutter for on-the-go mental health support.
+- Add speech-to-text and text-to-speech capabilities so users can talk and listen instead of typing.
+- Improve the UI with theme switching, larger fonts, and accessibility options for better user experience.
+- Implement end-to-end encryption and anonymization to enhance user trust and data security.
 
 ## Contributions
 Contributions are welcome! Feel free to fork the repository and submit pull requests with improvements or additional features.
