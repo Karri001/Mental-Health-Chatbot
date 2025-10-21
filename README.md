@@ -1,7 +1,7 @@
 # Mental-Health-Chatbot
 
 ## Overview
-This project provides a robust solution for classifying traffic signs specific to Indian road conditions. Using a custom dataset and the YOLOv5 model, it delivers high-performance detection and classification capabilities. The system is integrated with Gradio for a user-friendly interface and supports multiple input formats, including images, videos, and real-time streams.
+The Mental Health Chatbot is an interactive web-based platform designed to provide users with a safe and supportive environment to discuss their thoughts and emotions. Powered by Ollama as the core conversational engine, the chatbot engages users in empathetic, human-like conversations to promote mental wellness and emotional support.
 
 ## Repository
 This project is hosted on GitHub: [Traffic Sign Classification Repository](https://github.com/Karri001/Traffic-sign-classification)
