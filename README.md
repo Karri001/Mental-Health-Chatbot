@@ -102,7 +102,9 @@ Follow these steps to set up the project:
 
 
 ### Video Demonstration
-![Video Demonstration](https://github.com/Karri001/Traffic-sign-classification/blob/main/Screenshots/video/WIN_20241130_00_07_38_Pro.mp4)
+![Video Demonstration](https://github.com/user-attachments/assets/7356f82d-3bb9-4ece-a95c-cb65af8f6e07)
+
+
 
 ## Custom Dataset
 The model is trained on a custom dataset that includes diverse traffic signs observed in Indian road conditions. The dataset contains:
