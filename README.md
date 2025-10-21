@@ -85,10 +85,12 @@ Follow these steps to set up the project:
 
 
 ### Login/SignUp Page
--Login Page
-![Login Page](https://github.com/user-attachments/assets/56e2236a-e121-4816-9565-c86585ad4020)
--SignUp Page
-![SignUp Page](https://github.com/user-attachments/assets/6358af57-1b66-46ec-9968-11895ac4cae0)
+ - Login Page
+  
+ ![Login Page](https://github.com/user-attachments/assets/56e2236a-e121-4816-9565-c86585ad4020)
+ - SignUp Page
+   
+ ![SignUp Page](https://github.com/user-attachments/assets/6358af57-1b66-46ec-9968-11895ac4cae0)
 
 
 ### Home Interface (After Login)
