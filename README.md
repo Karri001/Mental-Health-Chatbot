@@ -84,10 +84,18 @@ Follow these steps to set up the project:
 ![Home Interface (Befor Login)](https://github.com/user-attachments/assets/2377fe66-af50-4ecd-8315-b22eac9aec46)
 
 
-### Detection Result
-![Detection Result](https://github.com/Karri001/Traffic-sign-classification/blob/main/Screenshots/Screenshot%20(281).png)
-![Detection Result](https://github.com/Karri001/Traffic-sign-classification/blob/main/Screenshots/Screenshot%20(282).png)
-![Detection Result](https://github.com/Karri001/Traffic-sign-classification/blob/main/Screenshots/Screenshot%20(283).png)
+### Login/SignUp Page
+![Login Page](https://github.com/user-attachments/assets/56e2236a-e121-4816-9565-c86585ad4020)
+![SignUp Page](https://github.com/user-attachments/assets/6358af57-1b66-46ec-9968-11895ac4cae0)
+
+
+### Home Interface (After Login)
+![Home Interface (After Login)](https://github.com/user-attachments/assets/7cf5af7f-afe9-48fe-b6a6-ee782cdaab28)
+
+
+### ChatBot
+![ChatBot](https://github.com/user-attachments/assets/c773f4b0-cf7c-4cbc-b75f-106826d44ca8)
+
 
 ### Video Demonstration
 ![Video Demonstration](https://github.com/Karri001/Traffic-sign-classification/blob/main/Screenshots/video/WIN_20241130_00_07_38_Pro.mp4)
